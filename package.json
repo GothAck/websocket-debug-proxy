@@ -2,6 +2,9 @@
   "name": "websocket-debug-proxy",
   "version": "0.0.1",
   "private": true,
+  "bin": {
+    "websocket-debug-proxy": "app.js"
+  },
   "scripts": {
     "start": "node app.js"
   },
