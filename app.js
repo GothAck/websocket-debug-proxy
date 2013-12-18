@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 /*
   SciVisum WebSocket / SignalR debug proxy
   © SciVisum Limited 2013
